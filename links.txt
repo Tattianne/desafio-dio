@@ -1,1 +1,2 @@
-Essa é a url para baixar o Git: [GIT](https://git-scm.com/downloads)
+Essa é a url para baixar o Git: https://git-scm.com/downloads
+COPIE E COLE NO SEU NAVEGADOR (:
